@@ -7,12 +7,12 @@ Weather App is a simple weather forcasting app build using flutter framework tha
 
 <p align="center">
   <strong>UI</strong><br>
-  <img src="images/2.png" alt="UI">
+  <img src="images/3.png" alt="UI">
 </p>
 
 <p align="center">
   <strong>Dark Theme</strong><br>
-  <img src="images/3.png" alt="Dark Theme">
+  <img src="images/2.png" alt="Dark Theme">
 </p>
 
 <p align="center">
